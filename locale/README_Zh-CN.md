@@ -3,7 +3,9 @@
 
 
 ### 翻译：
-[英文原版副本 original copy（2017.02.18）](https://github.com/xinyu3ru/openaccess/blob/master/README.md)
+[英文原版副本 original copy（2017.02.18）modified](https://github.com/xinyu3ru/openaccess/blob/master/README.md)
+
+↓↓↓↓↓↓↓↓↓翻译开始↓↓↓↓↓↓↓↓↓translation start↓↓↓↓↓↓↓↓↓
  
 [大都会艺术博物馆](http://www.metmuseum.org) 坐落于纽约市的3个标志性的地点——大都会第五大道主馆、布鲁尔博物馆和修道院博物馆，展览着全世界上下五千年的艺术品供人们参观、游览。 同时也有数百万的群众通过大都会艺术博物馆在线网站进行参观、体验。
  
@@ -33,7 +35,7 @@
  
 ### 共享推进
 
-请考虑在正规的调研和刊物发表中提到或者引用大都会艺术博物馆的CC0开放数据，这些成果将激励我们开放更多的数据。这也会减少数据孤岛，帮助把相关的资料建立联系。
+请考虑在正式的调研和刊物发表中提到或者引用大都会艺术博物馆的CC0开放数据，这些成果将激励我们开放更多的数据。这也会减少数据孤岛，帮助把相关的资料建立联系。
 
 ### 请不要篡改数据集
 
@@ -41,15 +43,15 @@
  
 当你转换、翻译、修改数据的时候，你必须清晰的告示最终数据已经过修改。如果您丰富了数据或者修正了数据，请考虑公开这些衍生数据、不设使用限制。
  
-感谢使用指南的作者们：[美国·现代艺术博物馆](http://www.moma.org/)，[英国Tate](http://www.tate.org.uk/) ，[Cooper-Hewitt](http://www.cooperhewitt.org/),还有 [欧洲数位图书馆](http://www.europeana.eu/)。
+感谢使用指南的作者们：[美国·现代艺术博物馆](http://www.moma.org/)，[英国·Tate](http://www.tate.org.uk/) ，[Cooper-Hewitt](http://www.cooperhewitt.org/),还有 [欧洲数位图书馆](http://www.europeana.eu/)。
 
+↑↑↑↑↑↑↑↑翻译结束↑↑↑↑↑↑↑↑translation end↑↑↑↑↑↑↑↑
 
 ### PS：
 以上翻译为个人业余翻译，敬请斧正。如果出现法律依据问题，敬请以英文版为准。本人亦不承担任何保证和担保，本文仅供参考使用。
 
-[The Met README.md 原文](https://github.com/metmuseum/openaccess/blob/master/README.md)
-[The Met README.md original file](https://github.com/metmuseum/openaccess/blob/master/README.md)
-[A copy of The Met README.md](https://github.com/metmuseum/openaccess/blob/master/README.md)
+[大都会艺术博物馆README原文   The Met README.md original file](https://github.com/metmuseum/openaccess/blob/master/README.md)      
+
 
 现代艺术博物馆（英文：Museum of Modern Art，常简称为MoMA）是一所在美国纽约市曼哈顿中城的博物馆，也是世界上最杰出的现代艺术收藏之一。位于曼哈顿第53街（在第五和第六大道之间），此博物馆经常与大都会博物馆相提并论，虽馆藏少于前者，但在现代艺术的领域里，该馆拥有较多重要的收藏。
 
@@ -58,3 +60,5 @@ Tate是一个英国免税的慈善组织、协同工作的公共执行体（具�
 Cooper-Hewitt 是Cooper Hewitt, Smithsonian Design Museum（库伯·休伊特、史密森设计博物馆）的简称，它是美国唯一一家专门收集历史和现代设计艺术品的博物馆，通过展览艺术品、培训活动和发表论文来启发、教育、激励众人。博物馆工作人员和董事会的愿景是通过博物馆收藏的近3000年的人文设计来增加公众对设计的理解。办公地点位于纽约东二户91街（第五大道和91街附近，第五大道和麦迪逊大道之间）。
 
 Europeana：欧洲数位图书馆，欧洲数位图书馆是一个互联网站点，它展示了无数被欧洲委员会数字化的书籍、绘画、电影、博物馆藏品和音频档案。列奥纳多·达·芬奇的 蒙娜丽莎,扬·弗美尔的《戴珍珠耳环的少女》、查尔斯·达尔文和艾萨克·牛顿的作品，以及沃尔夫冈·阿马德乌斯·莫扎特的音乐都是欧洲数位图书馆吸引人的亮点。超过2000家的欧洲机构对欧洲数位图书馆做出了贡献，例如阿姆斯特丹国家博物馆、大英图书馆和卢浮宫，地方性的档案则由欧盟成员国的地方博物馆提供。这项计划着力于振兴和支持欧洲数字图书馆的作品，并将它们都统和进入欧洲数位图书馆，并借由欧洲数位图书馆致力于推进信息社会和媒体产业。
+
+“as is”：常见于英文交易或者贸易中用于免除相关责任，意思大概是我只对现在货物（产品、东西）负责，您接手后出现任何问题、发现任何瑕疵等等，和我都没有任何关系。和中国的银行柜台前期执行的“离柜概不负责”以及和古董、文玩、字画交易中的“货物一经离手概不负责”的意思相类似。 古董、文玩、字画交易中，只要你交了钱，然后东西交到您手里，您拿好，下一秒摔碎了、发现是赝品等等，那也算您的，和我没有任何关系啦！
