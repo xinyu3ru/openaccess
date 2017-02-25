@@ -2,16 +2,22 @@
 ===================
 
 
-### 翻译：
-[英文原版副本 original copy（2017.02.18）modified](https://github.com/xinyu3ru/openaccess/blob/master/README.md)
+### Translation :
+ 大都汇艺术博物馆开放数据[Chinese 中文（非官方）](https://github.com/xinyu3ru/openaccess/blob/master/locale/README_Zh-CN.md)    [CC0 中文非官方翻译](https://github.com/metmuseum/openaccess/blob/master/locale/CC0_LICENSE_Chinese)      [如何下载](https://github.com/metmuseum/openaccess/blob/master/how_to_download_data.md)
+ 
+ 
+### Original copy
+ [CC0 English copy](https://github.com/metmuseum/openaccess/blob/master/CC0_LICENSE_English)       [How to download](https://github.com/metmuseum/openaccess/blob/master/how_to_download_data.md)
 
-↓↓↓↓↓↓↓↓↓翻译开始↓↓↓↓↓↓↓↓↓translation start↓↓↓↓↓↓↓↓↓
+
+↓↓↓↓↓↓↓↓↓     翻译开始      ↓↓↓↓↓↓↓↓↓     translation start      ↓↓↓↓↓↓↓↓↓
+ 
  
 [大都会艺术博物馆](http://www.metmuseum.org) 坐落于纽约市的3个标志性的地点——大都会第五大道主馆、布鲁尔博物馆和修道院博物馆，展览着全世界上下五千年的艺术品供人们参观、游览。 同时也有数百万的群众通过大都会艺术博物馆在线网站进行参观、体验。
  
 大都会艺术博物馆始建于1870年，致力于超越“稀有和美丽艺术品的宝库”本身。每天艺术品在展柜中栩栩如生的展示，向世人揭示着跨越时间、跨越文化的新想法和意想不到的联系。
 
-现在大都会艺术博物馆公开了超过42万条精选数据集给各位无偿使用。在法律允许的范围内，大都会艺术博物馆遵循无版权【[Creative Commons Zero](https://creativecommons.org/publicdomain/zero/1.0/)】原则，放弃数据集的版权、衍生版权和其他衍生权，数据集在美利坚共和国发表。你也可以在存档的[LICENSE](https://github.com/metmuseum/openaccess/blob/master/LICENSE) 文本文档中查看CC Zero原则。数据集的数据可以在任何媒体上免费使用，包括数据集中有版权艺术品的身份信息数据。这些数据支持与大都会艺术博物馆合作、对大都会艺术博物馆收藏品的调研的使用。
+现在大都会艺术博物馆公开了超过42万条精选数据集给各位无偿使用。在法律允许的范围内，大都会艺术博物馆遵循无版权【[Creative Commons Zero](https://creativecommons.org/publicdomain/zero/1.0/)】原则，放弃数据集的版权、衍生版权和其他衍生权，数据集在美利坚共和国发表。你也可以在存档的[CC0 LICENSE 非官方翻译](https://github.com/metmuseum/openaccess/blob/master/locale/CC0_LICENSE_Chinese) 文本文档中查看CC Zero原则。数据集的数据可以在任何媒体上免费使用，包括数据集中有版权艺术品的身份信息数据。这些数据支持与大都会艺术博物馆合作、对大都会艺术博物馆收藏品的调研的使用。
  
 现在，数据集以UTF-8编码的CSV的格式放出，UTF-8是标准的跨语言编码格式，但是不能被Mac系统的Excel正确读取识别。Mac系统的Excel用户需要将文件编码转换为UTF-16编码格式。
 
@@ -21,7 +27,7 @@
 
 图片不包括在内，也不是数据集的一部分。数据集中支持CC0的艺术品图片在[大都会艺术博物馆在线收藏集录](http://www.metmuseum.org/art/collection) 中以CC0标签标识。
 
- 更多关于如何使用大都会艺术博物馆在线收藏集录中的图片的细节问题请访问我们的网站[开放数据](http://www.metmuseum.org/about-the-met/policies-and-documents/image-resources)块查阅
+ 更多关于如何使用大都会艺术博物馆在线收藏集录中的图片的细节问题请访问我们的网站[开放数据](http://www.metmuseum.org/about-the-met/policies-and-documents/image-resources)版块查阅
 
 ### 数据集的进度
 
@@ -45,7 +51,9 @@
  
 感谢使用指南的作者们：[美国·现代艺术博物馆](http://www.moma.org/)，[英国·Tate](http://www.tate.org.uk/) ，[Cooper-Hewitt](http://www.cooperhewitt.org/),还有 [欧洲数位图书馆](http://www.europeana.eu/)。
 
-↑↑↑↑↑↑↑↑翻译结束↑↑↑↑↑↑↑↑translation end↑↑↑↑↑↑↑↑
+
+↑↑↑↑↑↑↑↑         翻译结束       ↑↑↑↑↑↑↑↑       translation end     ↑↑↑↑↑↑↑↑
+
 
 ### PS：
 以上翻译为个人业余翻译，敬请斧正。如果出现法律依据问题，敬请以英文版为准。本人亦不承担任何保证和担保，本文仅供参考使用。

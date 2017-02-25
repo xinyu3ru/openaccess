@@ -3,7 +3,12 @@ The Metropolitan Museum of Art Open Access
 
 
 ### Translation :
- [Chinese 中文（非官方）](https://github.com/xinyu3ru/openaccess/blob/master/locale/README_Zh-CN.md)
+ 大都汇艺术博物馆开放数据[Chinese 中文（非官方）](https://github.com/xinyu3ru/openaccess/blob/master/locale/README_Zh-CN.md)    [CC0 中文非官方翻译](https://github.com/metmuseum/openaccess/blob/master/locale/CC0_LICENSE_Chinese)      [如何下载](https://github.com/metmuseum/openaccess/blob/master/how_to_download_data.md)
+ 
+ 
+### Original copy
+ [CC0 English copy](https://github.com/metmuseum/openaccess/blob/master/CC0_LICENSE_English)       [How to download](https://github.com/metmuseum/openaccess/blob/master/how_to_download_data.md)
+ 
 
 The [Metropolitan Museum of Art](http://www.metmuseum.org) presents over 5,000 years of art from around the world for everyone to experience and enjoy. The Museum lives in three iconic sites in New York City—The Met Fifth Avenue, The Met Breuer, and The Met Cloisters. Millions of people also take part in The Met experience online.
 
