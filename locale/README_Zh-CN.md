@@ -3,11 +3,11 @@
 
 
 ### Translation :
- 大都汇艺术博物馆开放数据[Chinese 中文（非官方）](https://github.com/xinyu3ru/openaccess/blob/master/locale/README_Zh-CN.md)	|||||	[CC0 中文非官方翻译](https://github.com/metmuseum/openaccess/blob/master/locale/CC0_LICENSE_Chinese)	|||||	[如何下载](https://github.com/metmuseum/openaccess/blob/master/how_to_download_data.md)
+ 大都汇艺术博物馆开放数据[Chinese 中文（非官方）](https://github.com/xinyu3ru/openaccess/blob/master/locale/README_Zh-CN.md)	|||||	[CC0 中文非官方翻译](https://github.com/xinyu3ru/openaccess/blob/master/locale/CC0_LICENSE_Chinese)	|||||	[如何下载](https://github.com/xinyu3ru/openaccess/blob/master/how_to_download_data.md)
  
  
 ### Original copy
- [CC0 English copy](https://github.com/metmuseum/openaccess/blob/master/CC0_LICENSE_English)	|||||	[How to download](https://github.com/metmuseum/openaccess/blob/master/how_to_download_data.md)
+ [CC0 English copy](https://github.com/xinyu3ru/openaccess/blob/master/CC0_LICENSE_English)	|||||	[How to download](https://github.com/xinyu3ru/openaccess/blob/master/how_to_download_data.md)
 
 
 ↓↓↓↓↓↓↓↓↓     翻译开始      ↓↓↓↓↓↓↓↓↓     translation start      ↓↓↓↓↓↓↓↓↓
